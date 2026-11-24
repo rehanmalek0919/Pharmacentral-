@@ -1,2 +1,2 @@
-# Pharmacentral-
+# Pharmacentral
 pharmacy management system 
